@@ -1,0 +1,10 @@
+1	pre1st	35
+2	pre2nd	30
+3	pre3rd	25
+4	pre4th	24
+5	pre5th	23
+6	pre6th	22
+7	pre7th	20
+8	pre8th	19
+9	pre9th	18
+10	pre10th	17

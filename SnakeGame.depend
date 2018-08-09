@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1512666289 source:d:\programok\codeblocks\snake\snakegame\main.c
+	"jatek.h"
+	"settings.h"
+	"dicsoseg.h"
+
+1533835264 source:d:\programok\codeblocks\snake\snakegame\jatek.c
+	"jatek.h"
+	"settings.h"
+	"dicsoseg.h"
+
+1512673063 d:\programok\codeblocks\snake\snakegame\jatek.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<time.h>
+	<SDL2/SDL_ttf.h>
+	<string.h>
+
+1512673860 source:d:\programok\codeblocks\snake\snakegame\dicsoseg.c
+	"jatek.h"
+	"dicsoseg.h"
+
+1512226461 source:d:\programok\codeblocks\snake\snakegame\egyketjatekos.c
+
+1512229733 source:d:\programok\codeblocks\snake\snakegame\ketjatekos.c
+
+1512229281 d:\programok\codeblocks\snake\snakegame\egyketjatekos.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<SDL2/SDL_ttf.h>
+
+1512582074 d:\programok\codeblocks\snake\snakegame\debugmalloc.h
+	<stdlib.h>
+	<stdbool.h>
+
+1512582072 source:d:\programok\codeblocks\snake\snakegame\debugmalloc.c
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	<stdarg.h>
+	"debugmalloc.h"
+
+1512673063 d:\programok\codeblocks\snake\snakegame\settings.h
+	<stdio.h>
+	<stdbool.h>
+	<SDL2/SDL.h>
+
+1533835096 source:d:\programok\codeblocks\snake\snakegame\settings.c
+	"settings.h"
+	"jatek.h"
+
+1512673063 d:\programok\codeblocks\snake\snakegame\dicsoseg.h
+
